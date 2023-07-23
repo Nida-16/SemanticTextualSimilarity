@@ -159,13 +159,13 @@ def return_df_with_similarities_and_sim_score(text1,text2):
 #### Validating using random data ---............----------------..................-.-.-.-.-.-.-.-.-..-.-.--.
 
 
-text_1 = "The weather today is partly cloudy with a chance of scattered showers in the afternoon."
-# input text 1
+# text_1 = "The weather today is partly cloudy with a chance of scattered showers in the afternoon."
+# # input text 1
 
-text_2 = "The forecast for today predicts some clouds and the possibility of isolated rain showers later in the day."
-# input text 2
+# text_2 = "The forecast for today predicts some clouds and the possibility of isolated rain showers later in the day."
+# # input text 2
 
-df_with_similarities,sim_score = return_df_with_similarities_and_sim_score(text_1,text_2)
+# df_with_similarities,sim_score = return_df_with_similarities_and_sim_score(text_1,text_2)
 
 
-print(sim_score)
+# print(sim_score)
