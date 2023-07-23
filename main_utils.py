@@ -132,8 +132,9 @@ og_data_labeled['Similarity Score'] = og_similarities
 
 def return_df_with_similarities_and_sim_score(text1,text2):
     
+    
 #     Converting text1,text2 into a df
-    testing_df = to_df_input_data(text_1,text_2)
+    testing_df = to_df_input_data(text1,text2)
     
 #     Preprocessing the testing_df
     prepped_input_df = preprocess_data(testing_df)
