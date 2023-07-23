@@ -9,7 +9,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize.treebank import TreebankWordDetokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-# nltk.download('wordnet')
+nltk.download('punkt')
 nltk.download('stopwords')
 # nltk.download('wordnet_ic')
 

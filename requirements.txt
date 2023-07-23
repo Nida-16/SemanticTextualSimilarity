@@ -5,4 +5,4 @@ pandas
 scikit_learn
 gunicorn
 stopwords
-punkt
+nltk-punkt
