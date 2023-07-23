@@ -10,7 +10,7 @@ from nltk.tokenize.treebank import TreebankWordDetokenizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 # nltk.download('wordnet')
-# nltk.download('stopwords')
+nltk.download('stopwords')
 # nltk.download('wordnet_ic')
 
 ### Functions and Objects ---------------------------------------------------------------------

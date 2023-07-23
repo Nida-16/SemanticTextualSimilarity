@@ -4,3 +4,4 @@ numpy
 pandas
 scikit_learn
 gunicorn
+nltk.download('stopwords')
