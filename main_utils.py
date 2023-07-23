@@ -11,7 +11,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 nltk.download('punkt')
 nltk.download('stopwords')
-# nltk.download('wordnet_ic')
+nltk.download('wordnet')
 
 ### Functions and Objects ---------------------------------------------------------------------
 
