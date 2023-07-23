@@ -23,3 +23,5 @@ def STS():
     else :
         return "Gettyyy"
     
+if __name__=='__main__':
+    app.run()
